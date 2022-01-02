@@ -41,7 +41,7 @@ print(res.headers)
 > here provide username (eg.admin) and password (eg.ADMIN_PASS) & "192.168.56.101 = controller IP"
 > Output exemple : 
 
-```json
+```yml
 {‘Date’: ‘Wed, 31 Jul 2019 05:20:31 GMT’, ‘Server’: ‘Apache/2.4.29 (Ubuntu)’, ‘Content-Length’: ‘4723’, ‘X-Subject-Token’: ‘gAAAAABdQS3WNgoLUEKmiA8w83_VpFPx-o-C-5mSpRHfEsbjIRjahPRBkA6TDmOGbK7jUfFnajbQ4sBya2RhRYpBZRtyDRLcrF2qhlYgJ3rO7zw1QuE2Dq7lfjXFXszBfNhyR-c10Bv-3tybSzD-GiBG4DcoHKUCRwL6wJpnA4o8nILb763Td48’, ‘Vary’: ‘X-Auth-Token’, ‘x-openstack-request-id’: ‘req-8a4837ff-a157–4b12-b431–94da754c3579’, ‘Keep-Alive’: ‘timeout=5, max=100’, ‘Connection’: ‘Keep-Alive’, ‘Content-Type’: ‘application/json’}
 ```
 
